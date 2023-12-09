@@ -194,45 +194,49 @@
       <rect x="0" y="0" width="100%" height="100%" fill="white" rx="5"/>
     </mask>
     
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="0"
-          y="0"
-          width="108.99"
-          height="8"
-          fill="#f1e05a"
-        />
+       <rect
+  mask="url(#rect-mask)"
+  data-testid="lang-progress"
+  x="0"
+  y="0"
+  width="108.99"
+  height="8"
+  fill="#001F3F" <!-- Azul marino -->
+/>
+
+      
+       <rect
+  mask="url(#rect-mask)"
+  data-testid="lang-progress"
+  x="108.99"
+  y="0"
+  width="38.62"
+  height="8"
+  fill="#FFA500" <!-- Naranja -->
+/>
+
       
         <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="108.99"
-          y="0"
-          width="38.62"
-          height="8"
-          fill="#178600"
-        />
+  mask="url(#rect-mask)"
+  data-testid="lang-progress"
+  x="147.60999999999999"
+  y="0"
+  width="36.54"
+  height="8"
+  fill="#FFFF00" <!-- Amarillo -->
+/>
+
       
         <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="147.60999999999999"
-          y="0"
-          width="36.54"
-          height="8"
-          fill="#3572A5"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="184.14999999999998"
-          y="0"
-          width="28.51"
-          height="8"
-          fill="#563d7c"
-        />
+  mask="url(#rect-mask)"
+  data-testid="lang-progress"
+  x="184.14999999999998"
+  y="0"
+  width="28.51"
+  height="8"
+  fill="#ADD8E6" <!-- Azul claro -->
+/>
+
       
         <rect
           mask="url(#rect-mask)"
