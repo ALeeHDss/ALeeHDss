@@ -238,45 +238,6 @@
 />
 
       
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="212.65999999999997"
-          y="0"
-          width="18.05"
-          height="8"
-          fill="#f34b7d"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="230.70999999999998"
-          y="0"
-          width="11.63"
-          height="8"
-          fill="#3178c6"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="242.33999999999997"
-          y="0"
-          width="13.98"
-          height="8"
-          fill="#555555"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="246.31999999999996"
-          y="0"
-          width="13.68"
-          height="8"
-          fill="#5686a5"
-        />
       
   <g transform="translate(0, 25)">
   <g transform="translate(0, 0)">
