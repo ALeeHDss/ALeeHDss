@@ -3,12 +3,12 @@
     <circle cx="300" cy="300" r="200" fill="#F5F5F5" />
 
     <!-- Barras de habilidades -->
-    <rect x="20" y="250" width="560" height="50" fill="#61DAFB" />
-    <rect x="20" y="320" width="560" height="50" fill="#2A9D8F" />
-    <rect x="20" y="390" width="560" height="50" fill="#353B48" />
+    <rect x="20" y="250" width="523" height="50" fill="#61DAFB" />
+    <rect x="20" y="320" width="342" height="50" fill="#2A9D8F" />
+    <rect x="20" y="390" width="132" height="50" fill="#353B48" />
 
     <!-- Etiquetas de habilidades -->
-    <text x="250" y="270" text-anchor="middle" fill="#353B48" font-size="20px">Lenguajes de programación</text>
-    <text x="250" y="340" text-anchor="middle" fill="#353B48" font-size="20px">Desarrollo de videojuegos</text>
-    <text x="250" y="410" text-anchor="middle" fill="#353B48" font-size="20px">Desarrollo web</text>
+    <text x="250" y="270" text-anchor="middle" fill="#353B48" font-size="20px">Lenguajes de programación (52.3%)</text>
+    <text x="250" y="340" text-anchor="middle" fill="#353B48" font-size="20px">Html y Css (34.2%)</text>
+    <text x="250" y="410" text-anchor="middle" fill="#353B48" font-size="20px">Python (13.2%)</text>
 </svg>
