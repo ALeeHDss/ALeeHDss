@@ -305,3 +305,271 @@
       <circle cx="5" cy="6" r="5" fill="#563d7c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         CSS 11.41%
+ </text>
+    </g>
+  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#f34b7d" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        C++ 7.22%
+      </text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        TypeScript 4.65%
+      </text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms">
+      <circle cx="5" cy="6" r="5" fill="#555555" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        C 1.59%
+      </text>
+    </g>
+  </g><g transform="translate(0, 75)">
+    <g class="stagger" style="animation-delay: 900ms">
+      <circle cx="5" cy="6" r="5" fill="#5686a5" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        GLSL 1.47%
+      </text>
+    </g>
+  </g></g>
+    </g>
+  
+    </svg>
+  
+        </g>
+      </svg>
+    
+                        <!-- <h1 class="name">
+                            Skills
+                        </h1>
+                        <p>
+                            Specialized in backend development and infrastructure technologies, with skills in C#, C++ and C, and handling Docker, Terraform and Kubernetes. Experienced in frontend development with HTML, CSS, JavaScript and React, providing comprehensive and efficient technical solutions.
+                        </p> -->
+                        
+                    </div>
+                </div>
+            </div>
+            <style>
+
+            @font-face {
+                font-family: 'Fira Code';
+                src: url(./fonts/FiraCode-Bold.ttf);
+            }
+           
+           .kuma {
+                display: initial;
+                background: #fff;
+                }
+
+            .kuma-al {
+                position: fixed;
+                z-index: -1;
+                background: radial-gradient(circle at 75% 50%,#ff002b3a,hsla(0,0%,100%,0) 25%),radial-gradient(circle at 60% 30%,#ff002b3a,hsla(0,0%,100%,0) 10%);
+                inset: 0;
+            }
+
+            .dcontainer{
+                width: 100%;
+                height: 100%;
+                display: grid;
+                grid-template-columns: repeat(2, 1fr);
+                grid-template-rows: repeat(2, 1fr); 
+                gap: 10px;
+                <!-- background-color: blue; -->
+            }
+            .dcontainer .box{
+                width: 100%;
+                height: 100%;
+                border-top: 1px solid rgb(255 255 255 / 0.01);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                border-radius: 10px;
+                 background-color: rgb(255 255 255 / 0.01);
+                backdrop-filter: blur(50px);
+                webkit-backdrop-filter: blur(100%);
+                overflow: hidden;
+            }
+
+            .box.about{
+                 grid-area: 1 / 1 / 2 / 3;
+            }
+
+            .box.skills{
+                  grid-area: 2 / 1 / 3 / 2;
+            }
+
+            .box.test{
+                   grid-area: 2 / 2 / 3 / 3;
+            }
+            .dflex{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: row;
+                width: 100%;
+                height: 100%;
+                padding: 10px;
+            }
+
+            .dcolumn{
+                display: flex;
+                justify-content: flex-start;
+                align-items: flex-start;
+                flex-direction: column;
+                width: calc(50% - 10px);
+                height: 100%;
+            }
+
+            .dcolumn.img{
+                width: 30%;
+                display: flex;
+                align-items: center;
+                
+
+            }
+
+            .img-profile{
+                margin-top: 30px;
+                width: 50px;
+                height: 50px;
+                border-radius: 50%;
+            }
+            
+            .dcolumn.content{
+                width: 70%;
+
+            }
+
+            .position{
+                display:flex;
+                justify-content: center;
+                align-items: flex-start;
+                flex-direction: column;
+                height: 100%;
+                padding: 10px;
+            }
+
+            h1{
+                color: silver;
+                text-transform: uppercase;
+                font-family: 'Fira Code', sans-serif;
+                font-size: 900;
+                font-size: .8rem;
+                
+            }
+
+            h5{
+                color: silver;
+                text-transform: uppercase;
+                font-family: 'Fira Code', sans-serif;
+                font-size: 900;
+                font-size: .6rem;
+                
+            }
+
+            .name{
+                margin-bottom: .6vh; 
+            }
+
+            .nick{
+                color: gray;
+                margin: 0; 
+                font-family: 'Fira Code', sans-serif;
+                font-size: .5rem !important;
+            }
+
+            p{
+                color: gray;
+                font-family: 'Fira Code', sans-serif;
+                font-size: .5rem;
+                line-height: 1.5;
+            
+            
+            }
+
+
+            .content--stats{
+                display: flex;
+                justify-content: space-around;
+                align-items: flex-start;
+                flex-direction: row;
+                width: 100%;
+            }
+            
+
+            .content--stats--item{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                border-right: 1px solid rgb(255 255 255 / 0.1); 
+                width: 100%;
+                height: auto;
+                padding: 5px;
+            }
+
+            .content--stats--item:last-child{
+                border-right: none;
+            }
+
+            .content--stats--item h5, .content--stats--item p{
+                width: auto;
+                height: auto;
+                margin: 0;
+                margin-top: 2px;
+            }
+
+            .btn-cont{
+                display: flex;
+                justify-content: flex-start;
+                align-items: flex-start;
+                width: 70%;
+                height: auto;
+                margin-top: 10px;
+            }
+
+            button{
+                <!-- height: 3vh; -->
+                padding: 5px 0;
+                width: 10vh;
+                border-radius: 3px;
+                margin-right: 10px;
+                border: none;
+                background-color: #fff;
+                color: #000;
+                font-family: 'Fira Code', sans-serif;
+                font-size: .5rem;
+                font-weight: 900;
+                cursor: pointer;
+                transition: all .3s ease;
+            
+            }
+
+            button:hover{
+                background-color: #000;
+                color: #fff;
+            }
+
+            button.border{
+                border: 0.2px solid silver;
+                background-color: transparent;
+                 color: silver;
+            }
+
+              @keyframes bg {
+                  from {
+                      color: blue;
+                  }
+                  to {
+                      color: green;
+                  }
+              }
+            </style>
+        </div>
+    </foreignObject>
+  </svg>
