@@ -1,31 +1,18 @@
-<svg width="800" height="600">
+<svg width="400" height="200">
   <style>
     .label { font: 14px sans-serif; fill: #fff; }
   </style>
 
-  <script type="text/javascript">
-    var languages = [
-      { name: 'Lua', fill: '#ff8700', x: 10, y: 10 },
-      { name: 'Python', fill: '#4b8bbc', x: 230, y: 10 },
-      { name: 'HTML', fill: '#f0f0f0', x: 450, y: 10 },
-      { name: 'CSS', fill: '#8a3b8a', x: 670, y: 10 }
-    ];
+  <rect x="10" y="10" width="20%" height="50" fill="#ff8700" />
+  <text x="15%" y="80" class="label">Lua</text>
 
-    languages.forEach(function(lang) {
-      var rect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-      rect.setAttribute('x', lang.x);
-      rect.setAttribute('y', lang.y);
-      rect.setAttribute('width', 200);
-      rect.setAttribute('height', 200);
-      rect.setAttribute('fill', lang.fill);
-      document.getElementById('svgRoot').appendChild(rect);
+  <rect x="30%" y="10" width="25%" height="50" fill="#f0f0f0" />
+  <text x="37.5%" y="80" class="label">HTML</text>
 
-      var text = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      text.setAttribute('x', lang.x + 55);
-      text.setAttribute('y', lang.y + 180);
-      text.setAttribute('class', 'label');
-      text.textContent = lang.name;
-      document.getElementById('svgRoot').appendChild(text);
-    });
-  </script>
+  <rect x="55%" y="10" width="15%" height="50" fill="#8a3b8a" />
+  <text x="58%" y="80" class="label">CSS</text>
+
+  <rect x="70%" y="10" width="30%" height="50" fill="#4b8bbc" />
+  <text x="75%" y="80" class="label">Python</text>
 </svg>
+
