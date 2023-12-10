@@ -8,7 +8,8 @@
   <img src="./assets/title.svg" width="100%" height="auto">
 </div>
 
-![](https://cdn.discordapp.com/attachments/934932038564323469/1183522303703785642/image.png?ex=6588a409&is=65762f09&hm=ff8f58cb41044961e29f49bc71c82e1dadbcb05f66155dd5b11ee7d5567525c3&)
+![](https://cdn.discordapp.com/attachments/934932038564323469/1183524177169362994/image.png?ex=6588a5c8&is=657630c8&hm=c3a4c3aa233fb187f5db14eae74cac830022324c9525609912935baa3ac90b5f&)
+![a](https://cdn.discordapp.com/attachments/934932038564323469/1182794754740736060/image.png?ex=6585fe74&is=65738974&hm=ce86ded7ade9c1847d3abeaec8efaa06bf06e88c0ea9231bff2f5e45ed24d7ca&)
 
 <!-- ## ABOUT ME: 
 
