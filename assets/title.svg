@@ -20,10 +20,10 @@
                     <div class="dcolumn content">
                         <div class="position">
                             <h1 class="name">
-                                David
+                                Alejandro
                             </h1>
                             <a class="nick">
-                                @kdex
+                                @ALeeHDss
                             </a>
                             <p>
                                 The only thing you should know is that I'm always curious to learn the latest in technology. A bit of a cross-platform application development enthusiast.
@@ -54,8 +54,7 @@
                             Skills
                         </h1>
                         <p>
-                            Specialized in backend development and infrastructure technologies, with skills in C#, C++ and C, and handling Docker, Terraform and Kubernetes. Experienced in frontend development with HTML, CSS, JavaScript and React, providing comprehensive and efficient technical solutions.
-                        </p>
+                            Specialized in backend development and infrastructure technologies, with skills in Css, Html and Lua, and learning Python.
                         
                     </div>
                 </div>
@@ -206,7 +205,7 @@
           y="0"
           width="108.99"
           height="8"
-          fill="#f1e05a"
+          fill="#0032FF"
         />
       
         <rect
@@ -285,14 +284,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 43.60%
+        Lua 43.60%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 15.45%
+        Html 15.45%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
@@ -313,7 +312,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 7.22%
+        otros 7.22%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
