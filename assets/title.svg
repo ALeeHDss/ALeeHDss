@@ -1,20 +1,4 @@
-<svg width="400" height="200">
-  <style>
-    .label { font: 14px sans-serif; fill: #fff; }
-  </style>
 
-  <rect x="10" y="10" width="20%" height="50" fill="#ff8700" />
-  <text x="15%" y="80" class="label">Lua</text>
-
-  <rect x="30%" y="10" width="25%" height="50" fill="#f0f0f0" />
-  <text x="37.5%" y="80" class="label">HTML</text>
-
-  <rect x="55%" y="10" width="15%" height="50" fill="#8a3b8a" />
-  <text x="58%" y="80" class="label">CSS</text>
-
-  <rect x="70%" y="10" width="30%" height="50" fill="#4b8bbc" />
-  <text x="75%" y="80" class="label">Python</text>
-</svg>
 
 <svg width="400" height="250">
   <style>
