@@ -7,9 +7,8 @@
 <div align="center">
   <img src="./assets/title.svg" width="100%" height="auto">
 </div>
-
-![](https://cdn.discordapp.com/attachments/934932038564323469/1183524177169362994/image.png?ex=6588a5c8&is=657630c8&hm=c3a4c3aa233fb187f5db14eae74cac830022324c9525609912935baa3ac90b5f&)
-![a](https://cdn.discordapp.com/attachments/934932038564323469/1182794754740736060/image.png?ex=6585fe74&is=65738974&hm=ce86ded7ade9c1847d3abeaec8efaa06bf06e88c0ea9231bff2f5e45ed24d7ca&)
+ 
+<div style="text-align: center;"> <h1>Skills</h1> </div> <table> <tr> <th>Languages</th> <th>Percentage</th> </tr> <tr> <td>Lua</td> <td>62,3%</td> </tr> <tr> <td>Html</td> <td>21,5%</td> </tr> <tr> <td>Css</td> <td>6,7%</td> </tr> <tr> <td>Python</td> <td>9,5%</td> </tr> </table> <div style="text-align: center;"> <h2>Alejandro</h2> <h3>@ALeeHDs</h3> </div> <p> The only thing you should know is that I'm always curious to learn the latest in technology. A bit of a cross-platform application development enthusiast. </p> <p> The only thing you should know is that I'm always curious to learn the latest in technology. A bit of a cross-platform application development enthusiast. </p> <p> <strong>Followers:</strong> 14 <br> <strong>Following:</strong> 4 <br> <strong>Commits:</strong> 300 </p> <div style="text-align: center;"> <h3>Most Used Languages</h3> </div> <table> <tr> <th>Languages</th> <th>Percentage</th> </tr> <tr> <td>Lua</td> <td>62,3%</td> </tr> <tr> <td>Html</td> <td>21,5%</td> </tr> <tr> <td>Css</td> <td>6,7%</td> </tr> <tr> <td>Python</td> <td>9,5%</td> </tr> </table> <p> Skills <code></code> </p>
 
 <!-- ## ABOUT ME: 
 
