@@ -4,9 +4,7 @@
   </a>
 </h1>
 
-<div align="center">
-  <img src="./assets/title.svg" width="100%" height="auto">
-</div>
+
  
 # ALeeHDss
 Hello programmers, I'm Alejandro, the only thing you should know is that I am always curious to learn the latest in technology. A little enthusiastic about the development of cross-platform applications and an important fact, I am a Canarian.
