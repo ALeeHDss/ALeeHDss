@@ -4,10 +4,10 @@
   </a>
 </h1>
 
-Hello programmers, I'm Alejandro, the only thing you should know is that I am always curious to learn the latest in technology. A little enthusiastic about the development of cross-platform applications and an important fact, I am a Canarian.
+Good aviators 🚀, I'm Alejandro, the only thing you should know is that I am always curious to learn the latest in technology. A little enthusiastic about the development of cross-platform applications and an important fact, I am a Canarian.
 
 
-# GitHub Stats
+# GitHub Stats 📑
 
 - **Total Stars Earned**: 2
 - **Total Commits (2023)**: 60
@@ -17,14 +17,14 @@ Hello programmers, I'm Alejandro, the only thing you should know is that I am al
 
 ---
 
-**GitHub Social**
+**GitHub Social 👨‍👨‍👦‍👦** 
 
 - **Followers**: 3
 - **Following**: 2
 
 ---
 
-**Most Used Languages**
+**Most Used Languages 💠**
 
 - *Lua*
 -  *Html*
@@ -32,7 +32,7 @@ Hello programmers, I'm Alejandro, the only thing you should know is that I am al
 
 ---
 
-**Languages and Tools**
+**Languages and Tools 💻**
 
 - *Lua* 62,3 %
 - *Html* 21,5 %
