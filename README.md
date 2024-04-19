@@ -1,11 +1,3 @@
-<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.css" />
-<script>
-mermaid.initialize({
-startOnLoad: true
-});
-</script>
-
 # ALeeHDss - Full Stack Web Developer and Programmer
 
 ![ALeeHDss Profile Picture](/path/to/profile_picture.png)
@@ -14,43 +6,29 @@ Hello! I'm ALeeHDss, a passionate Full Stack Web Developer and Programmer with e
 
 ## 🛠️ Skills & Expertise
 
-- **Languages:** Ruby, JavaScript, Python, HTML, CSS
-- **Frameworks:** Ruby on Rails, React, Angular, Django, Flask
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Version Control:** Git
-- **Testing:** RSpec, Jest, PyTest
-- **DevOps:** Docker, Kubernetes, AWS, Azure, Google Cloud
+- **Languages:** Lua, JavaScript, Python, HTML and CSS
+- **Databases:** MySQL and MongoDB
 
 ## 💻 Projects
 
-Here are some of my latest projects:
+1. **DashHudFIvem**
+   - A HUD that shows you the speed your vehicle is going. I clarify that it is designed and developed for the FiveM platform (Cfx.re)
+   - [GitHub Repository](https://github.com/ALeeHDss/DashHudFIvem)
+   
 
-1. **Project Name**
-   - Description of the project
-   - [GitHub Repository](link-to-repository)
-   - [Live Demo](link-to-demo)
+2. **GarageFiveM**
+   - A script in which in several garages there is a point where you can remove the associated vehicles and saved in SQL, designed and developed by FiveM (Cfx.re)
+   - [GitHub Repository](https://github.com/ALeeHDss/GarageFiveM)
+  
 
-2. **Project Name**
-   - Description of the project
-   - [GitHub Repository](link-to-repository)
-   - [Live Demo](link-to-demo)
-
-## 📚 Blog & Articles
-
-I occasionally write articles and tutorials about web development and programming. You can find them on my [blog](link-to-blog).
 
 ## 📫 Contact Me
 
 Feel free to reach out to me for any questions, collaboration opportunities, or just to say hi!
 
-- Email: aleehdss@example.com
-- LinkedIn: [linkedin.com/in/ALeeHDss](linkedin.com/in/ALeeHDss)
 - Twitter: [@ALeeHDss](twitter.com/ALeeHDss)
 - GitHub: [github.com/ALeeHDss](github.com/ALeeHDss)
 
 ## 🚀 Let's Build Something Awesome Together!
 
 I'm always open to new opportunities and exciting projects. If you have an idea or need help with a project, don't hesitate to get in touch!
-
-<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-<link rel="stylesheet" href="https://
