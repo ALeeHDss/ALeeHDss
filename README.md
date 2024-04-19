@@ -1,6 +1,6 @@
-# ALeeHDss - Full Stack Web Developer and Programmer
+# ALeeHDss - Full Stack Web Developer and Programmer ![ALeeHDss Profile Picture](https://github.com/ALeeHDss/ALeeHDss/blob/main/profile.png)
 
-![ALeeHDss Profile Picture](/path/to/profile_picture.png)
+
 
 Hello! I'm ALeeHDss, a passionate Full Stack Web Developer and Programmer with experience in various technologies. I enjoy solving complex problems and building scalable, user-friendly web applications.
 
