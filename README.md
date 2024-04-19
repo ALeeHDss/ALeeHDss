@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I’m ALeeHDss!
 
-<!--
-**ALeeHDss/ALeeHDss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer and programmer with a passion for creating clean, user-friendly, and responsive websites.
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML and CSS
+- JavaScript
+- Python
+- Lua 
+
+## 🌐 Portfolio
+
+Check out some of my latest projects:
+
+- [Project 1](https://github.com/ALeeHDss/DashHudFIvem)
+- [Project 2](https://github.com/ALeeHDss/GarageFiveM)
+
+## 📫 Contact Me
+
+Feel free to reach out to me for any questions, collaboration opportunities, or just to say hi!
+
+- Twitter: [@ALeeHDss](twitter.com/ALeeHDss)
+- GitHub: [github.com/ALeeHDss](github.com/ALeeHDss)
