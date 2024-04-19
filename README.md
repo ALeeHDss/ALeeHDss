@@ -1,4 +1,4 @@
-# ALeeHDss - Full Stack Web Developer and Programmer ![ALeeHDss Profile Picture](https://github.com/ALeeHDss/ALeeHDss/blob/main/profile.png)
+# ALeeHDss - Full Stack Web Developer and Programmer 
 
 
 
